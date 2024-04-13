@@ -1,0 +1,9 @@
+{
+  "header": [
+    "§eYourServer§7.§enet",
+    "§7Name§8: §e%player_name% §8| §7Ping§8: §e%player_ping%§7ms"
+  ],
+  "footer": [
+    "§7Forum§8: §eforum§7.§eyourserver§7.§enet"
+  ]
+}

@@ -1,0 +1,4 @@
+main: com.simpleplugins.simpletablist.core.BungeePluginCore
+name: SimpleTablist
+version: 1.0.1
+author: SimplePlugins
